@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+task_analyzer.db
+.vscode/
+.DS_Store
